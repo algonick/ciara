@@ -11101,12 +11101,12 @@ body {
     padding: 0;
   }
   .masthead h1, .masthead .h1 {
-    font-size: 6.5rem;
+    font-size: 3.5rem;
     line-height: 6.5rem;
     letter-spacing: 0.8rem;
   }
   .masthead h2, .masthead .h2 {
-    max-width: 30rem;
+    max-width: 60rem;
     font-size: 1.25rem;
   }
 }
@@ -11120,7 +11120,7 @@ body {
 }
 
 .projects-section {
-  padding: 10rem 0;
+  /*padding: 10rem 0;*/
 }
 .projects-section .featured-text {
   padding: 2rem;
