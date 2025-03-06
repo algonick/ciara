@@ -11122,7 +11122,8 @@ body {
 }
 
 .projects-section {
-  /*padding: 10rem 0;*/
+  padding: 10rem 0;
+  background: linear-gradient(to bottom, #000 100%, rgba(0, 0, 0, 0.5) 75%, rgba(0, 0, 0, 0.1) 0%);
 }
 .projects-section .featured-text {
   padding: 2rem;
